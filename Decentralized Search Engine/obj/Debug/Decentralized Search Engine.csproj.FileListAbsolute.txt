@@ -1,0 +1,9 @@
+C:\Users\khalid\source\repos\Decentralized_SearchEngine\Decentralized Search Engine\bin\Debug\Decentralized Search Engine.exe.config
+C:\Users\khalid\source\repos\Decentralized_SearchEngine\Decentralized Search Engine\bin\Debug\Decentralized Search Engine.exe
+C:\Users\khalid\source\repos\Decentralized_SearchEngine\Decentralized Search Engine\bin\Debug\Decentralized Search Engine.pdb
+C:\Users\khalid\source\repos\Decentralized_SearchEngine\Decentralized Search Engine\obj\Debug\Decentralized Search Engine.csprojAssemblyReference.cache
+C:\Users\khalid\source\repos\Decentralized_SearchEngine\Decentralized Search Engine\obj\Debug\Decentralized_Search_Engine.Properties.Resources.resources
+C:\Users\khalid\source\repos\Decentralized_SearchEngine\Decentralized Search Engine\obj\Debug\Decentralized Search Engine.csproj.GenerateResource.cache
+C:\Users\khalid\source\repos\Decentralized_SearchEngine\Decentralized Search Engine\obj\Debug\Decentralized Search Engine.csproj.CoreCompileInputs.cache
+C:\Users\khalid\source\repos\Decentralized_SearchEngine\Decentralized Search Engine\obj\Debug\Decentralized Search Engine.exe
+C:\Users\khalid\source\repos\Decentralized_SearchEngine\Decentralized Search Engine\obj\Debug\Decentralized Search Engine.pdb
